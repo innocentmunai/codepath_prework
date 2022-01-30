@@ -1,8 +1,8 @@
 ## NAME_OF_YOUR_APP_HERE
-My "Hello World" App
+My "Hello World" App.
 
 ### App Description
-Simple iOS app that says "Hello from Innocent!" and allows user to change text color from black to blue
+Simple iOS app that says "Hello from Innocent!" and allows user to change text color from black to blue.
 
 ### App Walk-though
 <img src="http://g.recordit.co/eklaqmJmIt.gif" width=200><br>
