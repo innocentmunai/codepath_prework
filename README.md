@@ -5,7 +5,7 @@ My "Hello World" App
 Simple iOS app that says "Hello from Innocent!" and allows user to change text color from black to blue
 
 ### App Walk-though
-<img src="https://recordit.co/eklaqmJmIt" width=200><br>
+<img src="http://g.recordit.co/eklaqmJmIt.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
