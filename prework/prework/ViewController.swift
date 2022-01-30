@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var TextLabel: UILabel!
     
     @IBAction func ButtonClicked(_ sender: Any) {
-        TextLabel.textColor = UIColor.orange
+        TextLabel.textColor = UIColor.blue
     }
     
 }
